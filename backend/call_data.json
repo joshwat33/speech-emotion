@@ -1,0 +1,236 @@
+[
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample1.wav",
+    "transcription": "AY MY NAME'S TOM AND I'D LIKE TO TELL YOU ABOUT MY MOST RECENT TRIP TO A A CONFERENCE IN FLORIDA",
+    "speechEmotionOverall": {
+      "Neutral": 1.0
+    },
+    "timestamp": "2025-05-07T10:09:59.448709+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample2.wav",
+    "transcription": "THE FLIGHT WAS INCREDIBLE WITH A DURING SPRING BREAK WITH A LOT OF CHILDREN HEADING TO ORLANDO FOR UNIVERSAL STUDIOS AND ALL THE THEME PARKS IN CENTRAL FLORIDA",
+    "speechEmotionOverall": {
+      "Neutral": 1.0
+    },
+    "timestamp": "2025-05-08T10:11:05.963061+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample3.wav",
+    "transcription": "THE WEATHER WAS QUITE DIFFERENT THEN HERE ON THE WEST COAST THERE WAS A GREAT CHANGE OF PACTE FROM BE COLD HERE IN CENTRAL ORGAN",
+    "speechEmotionOverall": {
+      "Neutral": 0.8,
+      "Angry": 0.2
+    },
+    "timestamp": "2025-05-09T10:12:25.689097+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample4.wav",
+    "transcription": "THERE WERE AT LEAST TWO THOUSAND ATTENDEES AT THE AT THE CONFERENCE AND IT WAS QUITE IMPRESSIVE TO SEE FROM A MARKETING PERSPECTIVE HOW BIG OF A PRESENCE WE HAD",
+    "speechEmotionOverall": {
+      "Neutral": 1.0
+    },
+    "timestamp": "2025-05-10T10:13:32.659860+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample5.wav",
+    "transcription": "ALL O OUR DEMOS WENT VERY WELL WE HAD GREAT MEETINGS WITH PARTNERS AND POTENTIAL PROSPECTS AND WE HAD INCREDIBLE PRESENTATIONS TO OUR BROADER THOUGHT LEADERSHIP AUDIENCE",
+    "speechEmotionOverall": {
+      "Neutral": 1.0
+    },
+    "timestamp": "2025-05-11T10:14:43.606776+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample6.wav",
+    "transcription": "THE EVENT LASTED THREE DAYS AND BY THE END BOY I WAS READY TO COME HOME",
+    "speechEmotionOverall": {
+      "Neutral": 0.75,
+      "Angry": 0.25
+    },
+    "timestamp": "2025-05-12T10:55:35.229272+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample7.wav",
+    "transcription": "IN ALL IT WAS A VERY PRODUCTIVE TRIP AND GREAT TO BE BACK ON THE ROAD MEATING FACE TO FACE WITH CUSTOMERS PROSPECTS AND OF COURSE OUR UN TEAM HERE AT THE COMPANY",
+    "speechEmotionOverall": {
+      "Neutral": 0.8,
+      "Angry": 0.2
+    },
+    "timestamp": "2025-05-13T10:56:36.258651+00:00"
+  },
+  {
+    "fileName": "tinlin-headphones-74657.wav",
+    "transcription": "HELLO REFOND THE HEADPHONES O LISTEN HERE BUDY MY SISTER WANTS HER STUPID HEADPHONES FIXED SO YOU WILL REFUND TEM AND SEND HER A NEW PAIR CAN YOU PUT THE MAN AT YOUR OWN PLEASE IS THIS THE MAJOR GIVE MY SISTER A REFHOND ON HER HEADPHONES I HAVE A GUARANTEE IT SAYS YOU MUST GET ME A REFOND WITHOUT IT YOU'RE BREAKING THE LAW OF FALSE ADVERTISING IF YOU WANT ME TO CONTINUE TO PROSECUTE YOU I SHALL DO SO NOW WITHOUT FURTHER ADO WILL YOU PLEASE REFUND MY SISTER'S HEADPHONES NO NO NO REFON THE HEADPHONES NOW",
+    "speechEmotionOverall": {
+      "Neutral": 0.364,
+      "Angry": 0.545,
+      "Happy": 0.091
+    },
+    "timestamp": "2025-05-14T10:59:01.108053+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample3.wav",
+    "transcription": "THE WEATHER WAS QUITE DIFFERENT THEN HERE ON THE WEST COAST THERE WAS A GREAT CHANGE OF PACTE FROM BE COLD HERE IN CENTRAL ORGAN",
+    "speechEmotionOverall": {
+      "Neutral": 0.8,
+      "Angry": 0.2
+    },
+    "timestamp": "2025-05-14T11:53:25.088667+00:00"
+  },
+  {
+    "fileName": "tinlin-headphones-74657.wav",
+    "transcription": "HELLO REFUND THE HEADPHONES O LISTEN HERE BUDY MY SISTER WANTS HER STUPID HEADPHONES FIXED SO YOU WILL REFUND TEM AND SEND HER A NEW PAIR CAN YOU PUT THE MAN AT YOUR OWN PLEASE IS THIS THE MAJOR GIVE MY SISTER A REFHOND ON HER HEADPHONES I HAVE A GUARANTEE IT SAYS YOU MUST GET ME A REFOND WITHOUT IT YOU'RE BREAKING THE LAW OF FALSE ADVERTISING IF YOU WANT ME TO CONTINUE TO PROSECUTE YOU I SHALL DO SO NOW WITHOUT FURTHER ADO WILL YOU PLEASE REFUND MY SISTER'S HEADPHONES NO NO NO REFON THE HEADPHONES NOW",
+    "speechEmotionOverall": {
+      "Sad": 0.818,
+      "Happy": 0.091,
+      "Calm": 0.091
+    },
+    "timestamp": "2025-05-15T05:43:12.064149+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample1.wav",
+    "transcription": "AY MY NAME'S TOM AND I'D LIKE TO TELL YOU ABOUT MY MOST RECENT TRIP TO A A CONFERENCE IN FLORIDA",
+    "speechEmotionOverall": {
+      "Sad": 0.5,
+      "Fear": 0.5
+    },
+    "timestamp": "2025-05-15T05:49:33.487251+00:00"
+  },
+  {
+    "fileName": "multi-speaker.wav",
+    "transcription": "I HEARD THE THE GUAL CLOUD MULTI SPEAKER AUDIO GENERATION SOUNDS AMAZING OH WHAT'S SO GOOD ABOUT IT WELL WELL WHAT WELL YOU SHULD FIND IT OUT BY YOURSELF ALL RIGHT ALL RIGHT LET'S TRY IT OUT",
+    "speechEmotionOverall": {
+      "Happy": 0.143,
+      "Angry": 0.143,
+      "Neutral": 0.429,
+      "Surprise": 0.286
+    },
+    "timestamp": "2025-05-15T06:31:28.922281+00:00"
+  },
+  {
+    "fileName": "multi-speaker.wav",
+    "transcription": "I HEARD THE THE GUAL CLOUD MULTI SPEAKER AUDIO GENERATION SOUNDS AMAZING OH WHAT'S SO GOOD ABOUT IT WELL WELL WHAT WELL YOU SHULD FIND IT OUT BY YOURSELF ALL RIGHT ALL RIGHT LET'S TRY IT OUT",
+    "speechEmotionOverall": {
+      "Happy": 0.143,
+      "Angry": 0.143,
+      "Neutral": 0.429,
+      "Surprise": 0.286
+    },
+    "timestamp": "2025-05-16T05:04:19.251757+00:00"
+  },
+  {
+    "fileName": "tinlin-headphones-74657.wav",
+    "transcription": "HELLO REFUND THE HEADPHONES O LISTEN HERE BUDY MY SISTER WANTS HER STUPID HEADPHONES FIXED SO YOU WILL REFUND TEM AND SEND HER A NEW PAIR CAN YOU PUT THE MAN AT YOUR OWN PLEASE IS THIS THE MAJOR GIVE MY SISTER A REFHOND ON HER HEADPHONES I HAVE A GUARANTEE IT SAYS YOU MUST GET ME A REFOND WITHOUT IT YOU'RE BREAKING THE LAW OF FALSE ADVERTISING IF YOU WANT ME TO CONTINUE TO PROSECUTE YOU I SHALL DO SO NOW WITHOUT FURTHER ADO WILL YOU PLEASE REFUND MY SISTER'S HEADPHONES NO NO NO REFON THE HEADPHONES NOW",
+    "speechEmotionOverall": {
+      "Calm": 0.091,
+      "Fear": 0.455,
+      "Happy": 0.091,
+      "Sad": 0.364
+    },
+    "timestamp": "2025-05-16T05:19:28.815690+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample7.wav",
+    "transcription": "IN ALL IT WAS A VERY PRODUCTIVE TRIP AND GREAT TO BE BACK ON THE ROAD MEATING FACE TO FACE WITH CUSTOMERS PROSPECTS AND OF COURSE OUR UN TEAM HERE AT THE COMPANY",
+    "speechEmotionOverall": {
+      "Surprise": 0.8,
+      "Fear": 0.2
+    },
+    "timestamp": "2025-05-16T05:29:40.949174+00:00"
+  },
+  {
+    "fileName": "multi-speaker.wav",
+    "transcription": "I HEARD THE THE GUAL CLOUD MULTI SPEAKER AUDIO GENERATION SOUNDS AMAZING OH WHAT'S SO GOOD ABOUT IT WELL WELL WHAT WELL YOU SHULD FIND IT OUT BY YOURSELF ALL RIGHT ALL RIGHT LET'S TRY IT OUT",
+    "speechEmotionOverall": {
+      "Happy": 0.143,
+      "Angry": 0.143,
+      "Neutral": 0.429,
+      "Surprise": 0.286
+    },
+    "timestamp": "2025-05-16T06:33:08.081126+00:00"
+  },
+  {
+    "fileName": "multi-speaker.wav",
+    "transcription": "I HEARD THE THE GUAL CLOUD MULTI SPEAKER AUDIO GENERATION SOUNDS AMAZING OH WHAT'S SO GOOD ABOUT IT WELL WELL WHAT WELL YOU SHULD FIND IT OUT BY YOURSELF ALL RIGHT ALL RIGHT LET'S TRY IT OUT",
+    "speechEmotionOverall": {
+      "Happy": 0.143,
+      "Angry": 0.143,
+      "Neutral": 0.429,
+      "Surprise": 0.286
+    },
+    "timestamp": "2025-05-16T06:42:32.802140+00:00"
+  },
+  {
+    "fileName": "multi-speaker.wav",
+    "transcription": "I HEARD THE THE GUAL CLOUD MULTI SPEAKER AUDIO GENERATION SOUNDS AMAZING OH WHAT'S SO GOOD ABOUT IT WELL WELL WHAT WELL YOU SHULD FIND IT OUT BY YOURSELF ALL RIGHT ALL RIGHT LET'S TRY IT OUT",
+    "speechEmotionOverall": {
+      "Calm": 1.0
+    },
+    "timestamp": "2025-05-16T10:16:56.708057+00:00"
+  },
+  {
+    "fileName": "multi-speaker.wav",
+    "transcription": "I HEARD THE THE GUAL CLOUD MULTI SPEAKER AUDIO GENERATION SOUNDS AMAZING OH WHAT'S SO GOOD ABOUT IT WELL WELL WHAT WELL YOU SHULD FIND IT OUT BY YOURSELF ALL RIGHT ALL RIGHT LET'S TRY IT OUT",
+    "speechEmotionOverall": {
+      "Calm": 1.0
+    },
+    "timestamp": "2025-05-16T10:19:13.716039+00:00"
+  },
+  {
+    "fileName": "multi-speaker.wav",
+    "transcription": "I HEARD THE THE GUAL CLOUD MULTI SPEAKER AUDIO GENERATION SOUNDS AMAZING OH WHAT'S SO GOOD ABOUT IT WELL WELL WHAT WELL YOU SHULD FIND IT OUT BY YOURSELF ALL RIGHT ALL RIGHT LET'S TRY IT OUT",
+    "speechEmotionOverall": {
+      "Calm": 1.0
+    },
+    "timestamp": "2025-05-16T10:44:15.554605+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample6.wav",
+    "transcription": "THE EVENT LASTED THREE DAYS AND BY THE END BOY I WAS READY TO COME HOME",
+    "speechEmotionOverall": {
+      "Calm": 1.0
+    },
+    "timestamp": "2025-05-16T10:54:18.184504+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample7.wav",
+    "transcription": "IN ALL IT WAS A VERY PRODUCTIVE TRIP AND GREAT TO BE BACK ON THE ROAD MEATING FACE TO FACE WITH CUSTOMERS PROSPECTS AND OF COURSE OUR UN TEAM HERE AT THE COMPANY",
+    "speechEmotionOverall": {
+      "Calm": 1.0
+    },
+    "timestamp": "2025-05-16T10:56:03.769582+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample5.wav",
+    "transcription": "ALL O OUR DEMOS WENT VERY WELL WE HAD GREAT MEETINGS WITH PARTNERS AND POTENTIAL PROSPECTS AND WE HAD INCREDIBLE PRESENTATIONS TO OUR BROADER THOUGHT LEADERSHIP AUDIENCE",
+    "speechEmotionOverall": {
+      "Calm": 1.0
+    },
+    "timestamp": "2025-05-16T10:57:59.143940+00:00"
+  },
+  {
+    "fileName": "resources_RC_Speaker_Training_Sample3.wav",
+    "transcription": "THE WEATHER WAS QUITE DIFFERENT THEN HERE ON THE WEST COAST THERE WAS A GREAT CHANGE OF PACTE FROM BE COLD HERE IN CENTRAL ORGAN",
+    "speechEmotionOverall": {
+      "Calm": 0.8,
+      "Surprise": 0.2
+    },
+    "timestamp": "2025-05-16T10:59:19.054820+00:00"
+  },
+  {
+    "fileName": "multi-speaker.wav",
+    "transcription": "I HEARD THE THE GUAL CLOUD MULTI SPEAKER AUDIO GENERATION SOUNDS AMAZING OH WHAT'S SO GOOD ABOUT IT WELL WELL WHAT WELL YOU SHULD FIND IT OUT BY YOURSELF ALL RIGHT ALL RIGHT LET'S TRY IT OUT",
+    "speechEmotionOverall": {
+      "Calm": 1.0
+    },
+    "timestamp": "2025-05-16T11:03:08.429548+00:00"
+  },
+  {
+    "fileName": "multi-speaker.wav",
+    "transcription": "I HEARD THE THE GUAL CLOUD MULTI SPEAKER AUDIO GENERATION SOUNDS AMAZING OH WHAT'S SO GOOD ABOUT IT WELL WELL WHAT WELL YOU SHULD FIND IT OUT BY YOURSELF ALL RIGHT ALL RIGHT LET'S TRY IT OUT",
+    "speechEmotionOverall": {
+      "Calm": 1.0
+    },
+    "timestamp": "2025-05-16T11:08:22.418867+00:00"
+  }
+]
