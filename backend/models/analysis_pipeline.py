@@ -21,6 +21,7 @@ from datetime import datetime,timezone
 from pathlib import Path
 
 # --- Configuration ---
+HF_TOKEN = "<add your token>"
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"INFO: Using device: {DEVICE}")
 
