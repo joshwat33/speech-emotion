@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+
+/* Optional: Basic body styling */
+body {
+  @apply bg-gray-100 font-sans antialiased;
+}
+
+/* Optional: Custom scrollbar styling */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px; /* For horizontal scrollbars */
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #cbd5e1; /* gray-300 */
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8; /* gray-400 */
+}
+/* For Firefox */
+.custom-scrollbar {
+   scrollbar-width: thin;
+   scrollbar-color: #cbd5e1 #f1f1f1;
+}
