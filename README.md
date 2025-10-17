@@ -1,9 +1,9 @@
-# 🎙️ Speech Emotion Recognition and Analysis System
+# Speech Emotion Recognition and Analysis System
 
 A comprehensive speech analysis system that combines multiple deep learning models to extract rich insights from human speech.
 The backend performs speaker diarization, speech-to-text transcription, emotion and sentiment analysis, gender detection, and word cloud generation, while the frontend provides an interactive interface for users to visualize and explore the results.
 
-## 🧠 Overview
+## Overview
 
 This project processes speech audio files to identify:
 - Who spoke (Speaker Diarization)
@@ -15,7 +15,15 @@ This project processes speech audio files to identify:
 
 It leverages Wav2Vec2, Pyannote, and Transformers to achieve accurate and explainable speech analysis.
 
-## 🧩 System Architecture
+## Key Features
+
+1. End-to-end speech and text emotion recognition
+2. Integrated speaker diarization and ASR
+3. Built-in Groq-powered chatbot for interactive querying
+4. Word cloud visualization of emotional keywords
+5. Historical session tracking and analysis dashboard
+
+## System Architecture
 
 Workflow
 1. Upload audio — The user uploads an audio sample.
@@ -25,7 +33,7 @@ Workflow
 5. Historical analysis — Stores previous sessions for tracking emotional patterns.
 6. Chatbot query — Allows querying for summarized emotion insights via Groq-powered chatbot.
 
-## 🏗️ Repository Structure
+## Repository Structure
 ``` bash
 Speech-Emotion-Recognition/
 │
@@ -57,8 +65,8 @@ Speech-Emotion-Recognition/
 │
 └── README.md
 ```
-## ⚙️ Installation Guide
-### 🖥️ Backend Setup
+## Installation Guide
+### Backend Setup
 
 1. Create a virtual environment
 ```
@@ -93,8 +101,24 @@ Get it from https://console.groq.com/keys
 6. Create a <amrk>.env</mark> file inside <mark>backend/</mark> and add:
 ```
 GROQ_API_KEY=your_groq_api_key
-
+```
 7. Run the backend server
 ```
 uvicorn main:app --reload --host 127.0.0.1 --port 8000
 ```
+### Frontend Setup
+
+1. Open another terminal and navigate to the frontend:
+```
+cd frontend
+```
+2. Install dependencies:
+```
+npm install
+```
+3. Run the app:
+```
+npm run dev
+```
+
+> Ensure that it is starting at http://localhost:5173/
